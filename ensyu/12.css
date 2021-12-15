@@ -10,7 +10,7 @@ background-color: #ffa;
 }
 a.second{
     color: #00f;
-    line-height: 0;
+    line-height: 2;
 }
 a.second:link {color: #00f;}
 a.second:visited{color: #90a;}
