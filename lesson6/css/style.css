@@ -89,7 +89,7 @@ address{
   text-align: center;
 }
 /* ナビリスト */
-.nav-list{
+.nav-list li{
   display: inline-block;
   margin: 0;
   border-left: 1px solid #806342;
